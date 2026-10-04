@@ -7,14 +7,19 @@ Laravelを使用したWebアプリケーション開発を学習しています�
 
 ## 🛠️ 使える技術
 
-- **バックエンド**: PHP / Laravel
+- **バックエンド**: PHP / Laravel(Sail、Fortify、Sanctum、REST API)
 - **フロントエンド**: HTML5 / CSS / Blade
 - **データベース**: MySQL
 - **その他**: Docker / Git・GitHub / C言語
 
 ## 📂 学習成果物
 
-COACHTECH 教材のハンズオンで作成したリポジトリです。
+### COACHTECH 確認テスト/模擬案件で作成したWebアプリケーションのリポジトリです。
+
+- [attendance-app](https://github.com/yuto-oshima18/attendance-app) — 模擬案件1：勤怠管理アプリ
+- [contact-form-app](https://github.com/yuto-oshima18/contact-form-app) — 確認テスト：お問い合わせフォーム
+
+### COACHTECH 教材のハンズオンで作成したリポジトリです。
 
 - [self-introduction-practice](https://github.com/yuto-oshima18/self-introduction-practice) — 5-1-7: HTMLの基礎
 - [php-basics-practice](https://github.com/yuto-oshima18/php-basics-practice) — 7-1-6: PHPの基礎
